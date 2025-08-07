@@ -1,16 +1,3 @@
-# ===============================================
-
-# FILE: README.md
-
-# ===============================================
-
----
-
-description: Complete user guide for Dynamo AI - your gateway to blockchain-secured AI capabilities
-cover: assets/images/dynamo-ai-cover.png
-coverY: 0
----
-
 # 🚀 Welcome to Dynamo AI
 
 Welcome to Dynamo AI - your gateway to powerful AI agents and creative content generation on the blockchain.
