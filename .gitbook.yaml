@@ -1,0 +1,23 @@
+# ===============================================
+# FILE: .gitbook.yaml
+# ===============================================
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+format: markdown
+
+redirects:
+  previous/old-url: new-url
+
+pdf:
+  headerTemplate: |-
+    <div style="font-size: 9px; margin-left: 1cm;"> 
+      <span class="title"></span>
+    </div>
+  footerTemplate: |-
+    <div style="font-size: 9px; margin: 0 1cm;">
+      <span class="pageNumber"></span> / <span class="totalPages"></span>
+    </div>
