@@ -1,10 +1,3 @@
-## wallet-connection/install-wallet.md
-
----
-
-description: Step-by-step guide to installing and setting up MetaMask wallet
----
-
 # 📱 Install a Wallet
 
 We'll walk you through setting up MetaMask, the most popular and user-friendly wallet for accessing Dynamo AI.
@@ -27,9 +20,8 @@ We'll walk you through setting up MetaMask, the most popular and user-friendly w
 3. **Add Extension**: Click "Add to Chrome" (or your browser)
 4. **Confirm Installation**: Click "Add Extension" in the popup
 
-{% hint style="warning" %}
 **Security Check**: Always download MetaMask from the official website. Never install from unofficial sources.
-{% endhint %}
+
 
 ### Step 2: Set Up Your Wallet
 
@@ -378,9 +370,8 @@ If you have multiple wallet accounts:
 - ❌ **Download software**: Everything works in your browser
 - ❌ **Share private keys**: Keep these secret always
 
-{% hint style="danger" %}
 **Phishing Protection**: Always double-check the URL. Scammers create fake sites with similar addresses.
-{% endhint %}
+
 
 ---
 

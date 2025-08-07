@@ -1,10 +1,3 @@
-## wallet-connection/network-setup.md
-
----
-
-description: Configure your wallet for optimal performance with Dynamo AI
----
-
 # 🔧 Network Setup
 
 Optimize your wallet configuration for the best Dynamo AI experience with proper network settings and performance tuning.
@@ -265,8 +258,7 @@ Monitor these for optimal experience:
 - **Etherscan**: [etherscan.io](https://etherscan.io) for Ethereum  
 - **DeFi Pulse**: [defipulse.com](https://defipulse.com) for network stats
 
-{% hint style="info" %}
 **Stay Updated**: Network conditions change frequently. Monitor status pages during high usage periods.
-{% endhint %}
+
 
 ---

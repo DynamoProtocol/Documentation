@@ -1,10 +1,3 @@
-## getting-started/quick-start.md
-
----
-
-description: Get up and running with Dynamo AI in just a few minutes
----
-
 # ✅ Quick Start Guide
 
 Get started with Dynamo AI in under 10 minutes! This guide will take you from setup to your first AI-generated content.
@@ -165,9 +158,8 @@ You've successfully:
 - **Experiment with Settings** - Try different parameters and styles
 - **Combine Features** - Use actions to research, then workflows to create
 
-{% hint style="success" %}
 **Pro Tip**: Start with actions to learn the interface, then move to models for creative work, and finally use workflows for comprehensive projects.
-{% endhint %}
+
 
 ---
 

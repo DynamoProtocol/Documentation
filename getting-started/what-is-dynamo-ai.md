@@ -1,10 +1,3 @@
-## getting-started/what-is-dynamo-ai.md
-
----
-
-description: Discover what makes Dynamo AI unique and what you can accomplish with the platform
----
-
 # 🎯 What is Dynamo AI?
 
 Dynamo AI is a decentralized platform that provides access to advanced AI capabilities through a user-friendly web interface. Think of it as your gateway to professional-grade AI tools, all secured and verified through blockchain technology.
@@ -79,9 +72,8 @@ Ready to explore? Here's what you need:
 2. **DYNAMO tokens** - The platform's currency for accessing AI services
 3. **5 minutes** - That's all it takes to start creating
 
-{% hint style="info" %}
 **First time using crypto?** Don't worry! Our step-by-step guides make it easy, even if you've never used a cryptocurrency wallet before.
-{% endhint %}
+
 
 ---
 

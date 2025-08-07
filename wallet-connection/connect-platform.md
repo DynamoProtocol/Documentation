@@ -1,10 +1,3 @@
-## wallet-connection/connect-platform.md
-
----
-
-description: Connect your wallet to Dynamo AI and start using AI services
----
-
 # 🌐 Connect to Platform
 
 Now that you have a wallet installed, let's connect it to Dynamo AI and get you ready to use AI services.
@@ -18,9 +11,7 @@ Now that you have a wallet installed, let's connect it to Dynamo AI and get you 
 - ✅ Wallet is unlocked and ready
 - ✅ You're on the official Dynamo AI website
 
-{% hint style="info" %}
 **First Connection**: The process takes about 2 minutes and only needs to be done once per device.
-{% endhint %}
 
 ---
 
@@ -205,9 +196,7 @@ If you have multiple wallet accounts:
 - ❌ **Download software**: Everything works in your browser
 - ❌ **Share private keys**: Keep these secret always
 
-{% hint style="danger" %}
 **Phishing Protection**: Always double-check the URL. Scammers create fake sites with similar addresses.
-{% endhint %}
 
 ---
 

@@ -1,10 +1,3 @@
-## interface/README.md
-
----
-
-description: Master the Dynamo AI interface for efficient navigation and optimal productivity
----
-
 # 🖥️ Understanding the Interface
 
 The Dynamo AI interface is designed for intuitive navigation while providing access to powerful AI capabilities. This guide will help you master every aspect of the platform.

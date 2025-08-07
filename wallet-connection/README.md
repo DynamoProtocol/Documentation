@@ -1,10 +1,3 @@
-## wallet-connection/README.md
-
----
-
-description: Learn how to connect your cryptocurrency wallet to access Dynamo AI features
----
-
 # 🔗 Connecting Your Wallet
 
 Your cryptocurrency wallet is your key to accessing Dynamo AI. This section will guide you through the complete process of setting up and connecting your wallet to the platform.

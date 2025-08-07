@@ -61,6 +61,5 @@ This comprehensive guide will help you master every aspect of the Dynamo AI plat
 
 ---
 
-{% hint style="success" %}
 **Ready to get started?** Begin with [What is Dynamo AI?](getting-started/what-is-dynamo-ai.md) to understand the platform's capabilities.
-{% endhint %}
+

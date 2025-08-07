@@ -1,10 +1,3 @@
-## getting-started/system-requirements.md
-
----
-
-description: Ensure your system is ready for the best Dynamo AI experience
----
-
 # ⚙️ System Requirements
 
 Make sure your system meets these requirements for the optimal Dynamo AI experience.
@@ -142,9 +135,8 @@ Before proceeding, verify:
 - [ ] JavaScript is enabled
 - [ ] Ad blockers allow dynamo.ai
 
-{% hint style="info" %}
 **Having Issues?** Check our [Troubleshooting Guide](../troubleshooting/common-issues.md) or contact support.
-{% endhint %}
+
 
 ---
 

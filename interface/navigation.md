@@ -1,10 +1,3 @@
-## interface/navigation.md
-
----
-
-description: Master the navigation system to efficiently access all Dynamo AI features
----
-
 # 🧭 Main Navigation
 
 Dynamo AI uses a clean, tab-based navigation system that organizes all features into logical groups. Master the navigation to work efficiently across the platform.
@@ -240,9 +233,8 @@ Right-click for additional options:
 - **Sticky header** keeps navigation always accessible
 - **Auto-save** prevents data loss from accidental navigation
 
-{% hint style="success" %}
 **Pro Navigation Tip**: Use breadcrumbs to understand your current context, keyboard shortcuts for speed, and bookmark frequently used features for instant access.
-{% endhint %}
+
 
 ---
 

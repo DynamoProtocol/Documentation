@@ -1,10 +1,3 @@
-## getting-started/README.md
-
----
-
-description: Learn the basics of Dynamo AI and get ready to explore powerful AI capabilities
----
-
 # 🌟 Getting Started
 
 Welcome to Dynamo AI! This section will help you understand what the platform offers and get you ready to start using advanced AI capabilities secured by blockchain technology.
@@ -17,9 +10,8 @@ Welcome to Dynamo AI! This section will help you understand what the platform of
 
 ## Before You Begin
 
-{% hint style="info" %}
 **New to cryptocurrency?** Don't worry! We'll guide you through every step of setting up your wallet and getting started.
-{% endhint %}
+
 
 Make sure you have:
 
