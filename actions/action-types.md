@@ -1,10 +1,3 @@
-## actions/action-types.md
-
----
-
-description: Detailed overview of each action type and their specific capabilities
----
-
 # 📊 Action Types
 
 Dynamo AI offers three main categories of actions, each optimized for specific types of tasks. Understanding these categories will help you choose the right tool for your needs.

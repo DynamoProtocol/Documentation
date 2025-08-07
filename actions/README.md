@@ -1,10 +1,3 @@
-## actions/README.md
-
----
-
-description: Master AI Actions to analyze data, process documents, and generate content with precision
----
-
 # ⚡ AI Actions
 
 AI Actions are individual tasks that leverage artificial intelligence to analyze data, process documents, and generate content. Each action is designed for specific use cases and delivers professional-quality results.
